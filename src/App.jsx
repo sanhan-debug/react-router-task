@@ -4,7 +4,6 @@ import ROUTES from './routes/routes'
 let routes = createBrowserRouter(ROUTES)
 
 function App() {
-  
 
   return (
     <>
